@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5546108356152482829}
   - component: {fileID: 2051226365541308028}
   - component: {fileID: 713455202518248895}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 7803189723503696726}
   - component: {fileID: 2990716398606274288}
   - component: {fileID: 3302454406490890766}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Pistol
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   - component: {fileID: 4807359434774258714}
   - component: {fileID: 7449400666576626262}
   - component: {fileID: 8306916939137750518}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LootBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4206953494014984182}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Loot
   m_TagString: Untagged
   m_Icon: {fileID: 0}

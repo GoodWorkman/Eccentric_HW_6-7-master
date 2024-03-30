@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2713655389612846066}
   - component: {fileID: 4284782021092748986}
   - component: {fileID: 55429269818980977}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116,7 +116,7 @@ GameObject:
   - component: {fileID: 1209158205365193379}
   - component: {fileID: 295803616887857922}
   - component: {fileID: 3269316013671917837}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -181,4 +181,5 @@ MonoBehaviour:
   _effectPrefab: {fileID: 1883552001520024, guid: a30cd0ba5c00c6d459196515ec56574a,
     type: 3}
   _bulletSpeed: 20
+  _damageValue: 1
   _rigidbody: {fileID: 295803616887857922}

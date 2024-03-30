@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 962778466154555907}
   - component: {fileID: 7869371755210223609}
   - component: {fileID: 338210295084088159}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LootHeal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 3554783184710461313}
   - component: {fileID: 7913530869489701298}
   - component: {fileID: 8307798029635732813}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Plus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -176,7 +176,7 @@ GameObject:
   - component: {fileID: 208535832355563904}
   - component: {fileID: 4048345762691028254}
   - component: {fileID: 979861921707225443}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -257,7 +257,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8310494880787711270}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Loot_Heal
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1594219453742179813}
   - component: {fileID: 7237655805983816502}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Trail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -157,7 +157,7 @@ GameObject:
   - component: {fileID: 3005586638412540619}
   - component: {fileID: 1793805211786160832}
   - component: {fileID: 727739546213366776}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ GameObject:
   - component: {fileID: 8059909313508241596}
   - component: {fileID: 1969880645228761366}
   - component: {fileID: 4017413570167451279}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: BulletTrailed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,4 +327,5 @@ MonoBehaviour:
   _effectPrefab: {fileID: 1883552001520024, guid: a30cd0ba5c00c6d459196515ec56574a,
     type: 3}
   _bulletSpeed: 20
+  _damageValue: 1
   _rigidbody: {fileID: 1969880645228761366}
