@@ -29,12 +29,12 @@ public class Bullet : MonoBehaviour
     
     private void HandleCollision(Collider collider)
     {
-        Enemy enemy = collider.GetComponentInParent<Enemy>();
-       
-        if (enemy != null)
+        IDamageableEnemy damageable = collider.GetComponentInParent<IDamageableEnemy>();
+        if (damageable != null)
         {
-            enemy.TakeDamage(_damageValue); 
+            damageable.TakeDamage(_damageValue);
             InstantiateEffectAndDestroy();
+            return; 
         }
 
         if (collider.isTrigger == false)
